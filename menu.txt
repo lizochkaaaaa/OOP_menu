@@ -1,0 +1,21 @@
+The menu:
+The first dish is soup - Borshs. The meal is hot
+THe main course is Chicken - fried. The meal is no vegan
+The desert is strawberry Ice cream. The desert is lactose free
+The amount of kilocalories is 618
+The amount of sugar is 106.0
+
+The menu:
+The first dish is salad - Cezar. The meal is cold
+THe main course is Salmon - fried. The meal is no vegan
+The desert is apple Pie. The desert is lactose
+The amount of kilocalories is 1185
+The amount of sugar is 38.0
+
+The menu:
+The first dish is soup - Harcho. The meal is hot
+THe main course is Vegetables - boiled. The meal is vegan
+The desert is strawberry Cheesecake. The desert is lactose free
+The amount of kilocalories is 711
+The amount of sugar is 33.0
+
